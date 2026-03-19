@@ -233,11 +233,12 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <h3>🌊 "Make it work, make it right, make it fast." - Kent Beck</h3>
+  <h3>🌊 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</h3>
+  <h3>Let's build something amazing together! 🌟</h3>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
   <br><br>
   <!-- <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding" width="200"> -->
-  <br><br>
-  <p><strong>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</strong></p>
+  <!-- <br><br> -->
+  <!-- <p><strong></strong></p>
   <p><strong>Let's build something amazing together! 🌟</strong></p>
-</div>
+</div> -->
