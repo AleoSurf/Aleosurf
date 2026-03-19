@@ -16,9 +16,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<img align="right" height="200" src="https://github.com/Aleosurf.png" style="border-radius: 50%; padding:4px;background: linear-gradient(135deg, #83B5FF, #E6DB74); box-shadow: 0 0 12px rgba(76,161,175,0.4);" alt="avatar" />
+<!-- <img align="right" height="200" src="https://github.com/Aleosurf.png" style="border-radius: 50%; padding:4px;background: linear-gradient(135deg, #83B5FF, #E6DB74); box-shadow: 0 0 12px rgba(76,161,175,0.4);" alt="avatar" /> -->
 
-## 👨‍💻 Full-Stack Developer | ML Engineer  
+## 👨‍💻 Full-Stack Devops| AI Systems Engineer
 
 ### 🎓 B.Tech CSE (AI & ML）
 
