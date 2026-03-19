@@ -18,15 +18,11 @@
 
 <img align="right" height="200" src="https://github.com/Aleosurf.png" style="border-radius: 50%; padding:4px;background: linear-gradient(135deg, #83B5FF, #E6DB74); box-shadow: 0 0 12px rgba(76,161,175,0.4);" alt="avatar" />
 
-<h2 align="left">👨‍💻 Full-Stack Developer × AI/ML Engineer</h2>
+## 👨‍💻 Full-Stack Developer × AI/ML Engineer  
 
-<h3 align="left">🎓 B.Tech CSE (AI & ML)</h3>
+### 🎓 B.Tech CSE (AI & ML）
 
-<p align="left">
-  <b>Focused on building real AI products — not just models.</b>
-</p>
-
-> Focused on turning AI into real, usable products.
+> **Focused on turning AI into real, usable products.**
 
 ```yaml
 Role: Full-Stack Developer × AI/ML Engineer
