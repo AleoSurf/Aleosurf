@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Full-Stack Devops | AI Systems Engineer
 
-### 🎓 B.Tech CSE (AI & ML)
+### 🎓 B.Tech Computer Science (AI & ML)
 
 > **Focused on turning AI into real, usable products.**
 
@@ -30,13 +30,11 @@ Focus: AI Systems · System Design · Real-world Deployment
 Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 <div align="center">
   <h2>🌐 Connect With Me</h2>
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> -->
 </div>
 
 <p align="center">
@@ -59,6 +57,8 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a> -->
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 🚀 What I'm Building & Learning
 
