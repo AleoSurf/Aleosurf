@@ -18,17 +18,47 @@
 
 <!-- <img align="right" height="200" src="https://github.com/Aleosurf.png" style="border-radius: 50%; padding:4px;background: linear-gradient(135deg, #83B5FF, #E6DB74); box-shadow: 0 0 12px rgba(76,161,175,0.4);" alt="avatar" /> -->
 
-## 👨‍💻 Full-Stack Devops| AI Systems Engineer
+## 👨‍💻 Full-Stack Devops | AI Systems Engineer
 
-### 🎓 B.Tech CSE (AI & ML）
+### 🎓 B.Tech CSE (AI & ML)
 
 > **Focused on turning AI into real, usable products.**
 
 ```yaml
-Role: Full-Stack Developer × AI/ML Engineer
+Role: Full-Stack Developer × AI Systems Engineer
 Focus: AI Systems · System Design · Real-world Deployment
 Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+</div>
+
+<p align="center">
+  <a href="mailto:figteensgranger@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- <a href="https://portfolio-vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a> -->
+  <a href="https://love-spark-lac.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/jacob-liu-3b4b56351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/aleosurf/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <!-- <a href="https://linktr.ee" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a> -->
+</p>
 
 ### 🚀 What I'm Building & Learning
 
@@ -67,35 +97,7 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-  <h2>🌐 Connect With Me</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-</div>
-
-<p align="center">
-  <a href="mailto:figteensgranger@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- <a href="https://portfolio-vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a> -->
-  <a href="https://love-spark-lac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/jacob-liu-3b4b56351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/aleosurf/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <!-- <a href="https://linktr.ee" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a> -->
-</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -234,7 +236,7 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
   <h3>🌊 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</h3>
-  <h3>Let's build something amazing together! 🌟</h3>
+  <h3>-Let's build something amazing together! 🌟</h3>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
   <br><br>
   <!-- <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding" width="200"> -->
