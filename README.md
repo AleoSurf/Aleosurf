@@ -21,8 +21,13 @@
 
 ## 💼 Professional Summary
 
-**Full-Stack Developer × AI/ML Engineer**  
-**B.Tech CSE (AI & ML)**
+<h2 align="left">👨‍💻 Full-Stack Developer × AI/ML Engineer</h2>
+
+<h3 align="left">🎓 B.Tech CSE (AI & ML)</h3>
+
+<p align="left">
+  <b>Focused on building real AI products — not just models.</b>
+</p>
 
 > Focused on turning AI into real, usable products.
 
