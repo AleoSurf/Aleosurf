@@ -50,9 +50,9 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
   <a href="https://www.linkedin.com/in/jacob-liu-3b4b56351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/aleosurf/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/aleosurf/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+  </a> -->
   <!-- <a href="https://linktr.ee" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a> -->
