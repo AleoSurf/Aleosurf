@@ -34,7 +34,7 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
   <h2>🌐 Connect With Me</h2>
   <!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> -->
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> - 🎮 Experimenting with **AI × Gaming**-->
 </div>
 
 <p align="center">
@@ -67,7 +67,7 @@ Tech Stack: MERN | Python | Java | Next.js | AI/ML | LLMs | Cloud
 - 🌐 Developing **scalable full-stack apps** (MERN + APIs + Cloud) — clean architecture & deployment  
 - ⚙️ Designing **production-ready systems** — performance, scalability, fault tolerance  
 - 🔁 Exploring **AI Agents & workflow automation**  
-- 🎮 Experimenting with **AI × Gaming**
+
 
 ---
 
